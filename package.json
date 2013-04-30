@@ -1,0 +1,11 @@
+{
+  "name": "Bootstrap",
+  "version": "0.0.0",
+  "devDependencies": {
+    "grunt": ">= 0.4.1",
+    "jqueryui-amd": "~0.0.2",
+    "grunt-curl": "~1.0.0",
+    "grunt-zip": "~0.9.0",
+    "grunt-contrib-clean": "~0.4.1"
+  }
+}

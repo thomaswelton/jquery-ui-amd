@@ -1,0 +1,32 @@
+{
+  "name": "jquery-ui-amd",
+  "version": "0.0.0",
+  "main": [
+    "dist/accordion.js",
+    "dist/autocomplete.js",
+    "dist/button.js",
+    "dist/core.js",
+    "dist/datepicker.js",
+    "dist/dialog.js",
+    "dist/draggable.js",
+    "dist/droppable.js",
+    "dist/effect.js",
+    "dist/menu.js",
+    "dist/mouse.js",
+    "dist/position.js",
+    "dist/progressbar.js",
+    "dist/resizable.js",
+    "dist/selectable.js",
+    "dist/slider.js",
+    "dist/sortable.js",
+    "dist/spinner.js",
+    "dist/tabs.js",
+    "dist/tooltip.js",
+    "dist/widget.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
